@@ -59,7 +59,6 @@ ADMIN_MEDIA_PREFIX = '/media/'
 
 # Make this unique, and don't share it with anybody.
 SECRET_KEY = 'l1m4$d%8u2i(q9(*v#^qp93o##rfed4b)m1gm14yp!n0)2*1^@'
-#test change
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
     'django.template.loaders.filesystem.Loader',
